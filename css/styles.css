@@ -146,11 +146,6 @@ img {
     fill: currentColor;
 }
 
-.header-contact-item:hover,
-.header-contact-item:focus {
-    color: var(--accent-color);
-    background-color: var(--white-background-color);
-}
 
 .header-contact-link:hover,
 .header-contact-link:focus {
