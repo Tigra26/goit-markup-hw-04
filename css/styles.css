@@ -572,7 +572,7 @@ img {
     display: block;
     border-radius: 50%;
     color: var(--icon-mf-color);
-    background-color: var(--team-background-color);
+    background-color: var(--white-background-color);
 }
 .socials-icon {
     margin: 12px 0px 0px 12px;
@@ -582,6 +582,8 @@ img {
 .nav-link:focus,
 .nav-link:hover {
     color: var(--accent-color);
+}
+
 }
 
 .clients-title {
